@@ -1,2 +1,0 @@
-# NxBy
-Procurement AI Agent
